@@ -1,6 +1,8 @@
 <?php 
 /*
- * PHP/Web to Salesforce Lead
+ * PHP Salesforce Leads
+ *
+ * GitHub Repo: https://github.com/ccagle8/salesforce-php-leads
  *
  * @created 06/10/2013
  * @author Chris Cagle <admin@cagintranet.com>
