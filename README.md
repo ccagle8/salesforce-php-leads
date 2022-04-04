@@ -1,5 +1,5 @@
 # PHP Salesforce Lead Creator
-This is some code that we ported from various resources online and used on [DocumentLeads](http://documentleads.com).
+This is some code that we ported from various resources online and used on DocumentLeads
 
 ## General Requirements
 
